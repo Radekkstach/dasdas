@@ -1,0 +1,10 @@
+G:\PRogramovani\21012022\21012022\bin\Debug\21012022.exe.config
+G:\PRogramovani\21012022\21012022\bin\Debug\21012022.exe
+G:\PRogramovani\21012022\21012022\bin\Debug\21012022.pdb
+G:\PRogramovani\21012022\21012022\obj\Debug\21012022.csprojAssemblyReference.cache
+G:\PRogramovani\21012022\21012022\obj\Debug\_21012022.Form1.resources
+G:\PRogramovani\21012022\21012022\obj\Debug\_21012022.Properties.Resources.resources
+G:\PRogramovani\21012022\21012022\obj\Debug\21012022.csproj.GenerateResource.cache
+G:\PRogramovani\21012022\21012022\obj\Debug\21012022.csproj.CoreCompileInputs.cache
+G:\PRogramovani\21012022\21012022\obj\Debug\21012022.exe
+G:\PRogramovani\21012022\21012022\obj\Debug\21012022.pdb
